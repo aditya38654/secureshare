@@ -6,6 +6,4 @@ whitenoise==6.12.0
 numpy==1.26.4
 Pillow==9.5.0
 opencv-python-headless==4.10.0.84
-
-# Try this (may fail on PythonAnywhere free plan)
 face-recognition==1.3.0
